@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kamMAD155Module2NoAssemblyRequired</string>
+
+    <string name="txtTitle">Assemble\-It\-Quick</string>
+    <string name="btnAssemble">Tools Required</string>
+    <string name="imgTools">Image of Random Tools</string>
+    <string name="imgDesc1">Picture of Item to Build</string>
+    <string name="txtSelectionDirections">Select the project to build from the dropdown list
+        and then hit \"Tools Required\" button to display tools necessary for project</string>
+
+    <string name="txtBicycleTitle">Tools Required to Build A Bicycle</string>
+    <string name="txtDresserTitle">Tools Required to Build an IKEA Dresser</string>
+    <string name="txtPatioTitle">Tools Required to Build a Wood Patio</string>
+
+</resources>
